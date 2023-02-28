@@ -1,0 +1,122 @@
+/* body{
+color:red;
+}; */
+
+.Heading {
+  text-align: center;
+  color :red;
+  font-size: 20px;
+};
+
+.P {
+  font-size: 2rem;
+  font-weight: 600;
+  color: red;
+};
+
+/* .age{
+  margin-left:500px;
+} */
+
+.H{
+  color:black;
+}
+
+#divContainer{
+    display:flex;
+    margin-left:150px;
+    gap:750px;
+    font-size: 20px;
+    /* color:red; */
+};
+
+#divContainer input[type="text"] {
+    width:150px;
+    margin:15px;
+}
+
+input{
+  padding-left:5px;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.fullName{
+  /* color:red; */
+  margin-left:150px;
+}
+
+.DOB{
+  /* color:green; */
+  margin-left:150px;
+}
+
+.nationality{
+margin-left:150px;
+}
+
+.pass{
+margin-left:150px;
+}
+
+.doi{margin-left:150px;}
+.poi{margin-left:150px;}
+.occupation{margin-left:150px;}
+.addr{margin-left:150px;}
+
+.dateOff{margin-left:150px;}
+
+.placeOff{margin-left:150px;}
+
+.crime{margin-left:150px;}
+
+.act{margin-left:150px;}
+
+.section{margin-left:150px;}
+
+.suspect{margin-left:150px;}
+
+.firContents{margin-left:150px;}
+
+.createButton1 {
+    margin: 15px 0px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 30px 92px;
+    width: 86px;
+    height: 37px;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: "Roboto Slab", serif;
+    color: white;
+    line-height: 20px;
+    background: blue;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    margin-left: 27.5em;
+}
+ /* :hover, 
+  focus {
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.15em);
+     background-color: orange; 
+   }; */
+
+.Fir {
+display: flex;
+flex-direction: row;
+padding :35;
+}
+
+
+.formcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    padding: 0px 16.5em;
+}
